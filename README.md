@@ -1,1 +1,1 @@
-# Yoge-Pal
+# Yoga-Pal
